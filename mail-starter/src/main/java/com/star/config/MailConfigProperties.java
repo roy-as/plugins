@@ -1,6 +1,6 @@
-package com.cmt.config;
+package com.star.config;
 
-import com.cmt.common.enums.MailContentTypeEnum;
+import com.star.common.enums.MailContentTypeEnum;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -10,11 +10,10 @@ import java.util.Optional;
 /**
  * @className: MailConfigProperties
  * @description: TODO
- * @author: Aby@iv66.net
  * @create: 2019-10-24 13:36
  * @version: v1.0.0
  **/
-@ConfigurationProperties(prefix = "as.mail")
+@ConfigurationProperties(prefix = "mail")
 public class MailConfigProperties {
 
     /**

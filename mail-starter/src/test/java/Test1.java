@@ -1,5 +1,5 @@
-//import com.cmt.common.MailSender;
-//import com.cmt.common.enums.MailContentTypeEnum;
+//import com.star.common.MailSender;
+//import com.star.common.enums.MailContentTypeEnum;
 //import java.io.UnsupportedEncodingException;
 //import java.util.ArrayList;
 //import java.util.List;

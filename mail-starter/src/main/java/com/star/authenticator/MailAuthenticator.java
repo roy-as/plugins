@@ -1,4 +1,4 @@
-package com.cmt.authenticator;
+package com.star.authenticator;
 
 import javax.mail.Authenticator;
 import javax.mail.PasswordAuthentication;
@@ -6,7 +6,6 @@ import javax.mail.PasswordAuthentication;
 /**
  * @className: MailAuthenticator
  * @description: TODO
- * @author: Aby@iv66.net
  * @create: 2019-11-26 19:27
  * @version: v1.0.0
  **/

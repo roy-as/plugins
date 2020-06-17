@@ -1,4 +1,4 @@
-package com.cmt.common.enums;
+package com.star.common.enums;
 
 public enum MailContentTypeEnum {
 	HTML(1, "text/html;charset=UTF-8"),

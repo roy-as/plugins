@@ -1,6 +1,6 @@
-package com.cmt.config;
+package com.star.config;
 
-import com.cmt.common.MailSenders;
+import com.star.common.MailSenders;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,7 +13,6 @@ import java.io.File;
 /**
  * @className: MailConfiguration
  * @description: TODO
- * @author: Aby@iv66.net
  * @create: 2019-10-24 13:43
  * @version: v1.0.0
  **/

@@ -1,4 +1,4 @@
-package com.cmt.common.exception;
+package com.star.common.exception;
 
 import java.util.function.Supplier;
 

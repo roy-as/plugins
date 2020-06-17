@@ -1,4 +1,4 @@
-package com.cmt.entity;
+package com.star.entity;
 
 import com.alibaba.fastjson.JSON;
 import java.io.Serializable;

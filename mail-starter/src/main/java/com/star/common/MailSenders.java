@@ -1,13 +1,12 @@
-package com.cmt.common;
+package com.star.common;
 
 
-import com.cmt.common.exception.MessageErrorException;
-import com.cmt.config.MailConfigProperties;
+import com.star.common.exception.MessageErrorException;
+import com.star.config.MailConfigProperties;
 
 /**
  * @className: MailSenders
  * @description: TODO
- * @author: Aby@iv66.net
  * @create: 2019-10-24 17:11
  * @version: v1.0.0
  **/

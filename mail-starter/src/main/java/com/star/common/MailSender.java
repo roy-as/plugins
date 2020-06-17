@@ -1,23 +1,22 @@
-package com.cmt.common;
+package com.star.common;
 
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 import java.util.Properties;
-import java.util.stream.Collectors;
 import javax.activation.DataHandler;
 import javax.activation.FileDataSource;
 import javax.mail.*;
 import javax.mail.Message.RecipientType;
 import javax.mail.internet.*;
 
-import com.cmt.authenticator.MailAuthenticator;
-import com.cmt.common.exception.MessageErrorException;
-import com.cmt.common.utils.CollectionUtils;
-import com.cmt.common.enums.MailContentTypeEnum;
-import com.cmt.config.MailConfigProperties;
-import com.cmt.entity.MailEntity;
+import com.star.authenticator.MailAuthenticator;
+import com.star.common.exception.MessageErrorException;
+import com.star.common.utils.CollectionUtils;
+import com.star.common.enums.MailContentTypeEnum;
+import com.star.config.MailConfigProperties;
+import com.star.entity.MailEntity;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.BeanUtils;

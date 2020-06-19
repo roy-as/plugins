@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+netty:
+  port: 8082
+  content-path: /websocket
